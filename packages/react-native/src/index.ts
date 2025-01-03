@@ -23,6 +23,9 @@ const statics: ModuleStatics = {
   SDK_VERSION,
 };
 
+
+//ADDED_COMMENT_TO_GIT_FORK//
+
 const defaultExports: ModuleWithStatics = Object.assign(apiModule, statics);
 export default defaultExports;
 

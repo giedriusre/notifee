@@ -1,5 +1,6 @@
 {
-  "name": "@notifications/root",
+  "name": "@yourusername/react-native-notifee",
+  "version": "1.0.0",
   "private": true,
   "license": "Apache-2.0",
   "scripts": {
